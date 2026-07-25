@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 Firebase.py
+python3 Main.py
